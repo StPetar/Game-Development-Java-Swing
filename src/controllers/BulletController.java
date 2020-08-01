@@ -9,8 +9,6 @@ import java.util.ArrayList;
 
 /**
  * A class used to control the collisions between bullets and other elements in the game
- *
- * @author Nelson
  */
 public class BulletController {
     private static ArrayList<Bullet> bullets;

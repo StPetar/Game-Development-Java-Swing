@@ -2,8 +2,6 @@ package view.groundGame;
 
 /**
  * a class responsible for animating the ground level
- *
- * @author Nelson
  */
 public class GroundLevelThread implements Runnable {
     private static boolean stop = false;

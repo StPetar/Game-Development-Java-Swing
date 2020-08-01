@@ -8,8 +8,6 @@ import view.baseGame.BaseLevel;
 
 /**
  * a class for solid obstacles
- *
- * @author Nelson
  */
 public class SolidObstacle extends Obstacle {
     private static SolidObstacle jumpObstacle;

@@ -10,8 +10,6 @@ import java.awt.*;
 
 /**
  * A class which implements method specific to the turtles
- *
- * @author Nelson
  */
 public class Turtle extends Opponent implements Runnable {
     private static boolean stop = false;

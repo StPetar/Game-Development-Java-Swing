@@ -9,8 +9,6 @@ import java.awt.*;
 
 /**
  * A class responsible for display the welcome window
- *
- * @author Nelson
  */
 @SuppressWarnings("serial")
 public class WelcomeScene extends JPanel {

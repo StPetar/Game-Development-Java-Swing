@@ -10,8 +10,6 @@ import java.awt.event.ActionListener;
 
 /**
  * a class responsible for providing the user with a help message
- *
- * @author Nelson
  */
 @SuppressWarnings("serial")
 public class Help extends JPanel {

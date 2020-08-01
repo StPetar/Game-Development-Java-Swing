@@ -9,8 +9,6 @@ import java.util.ArrayList;
 
 /**
  * A class responsible for creating water spots in the game
- *
- * @author Nelson
  */
 public class WaterFactory {
 

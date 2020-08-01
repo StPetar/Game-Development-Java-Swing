@@ -14,8 +14,6 @@ import java.util.ArrayList;
 
 /**
  * a class responsible for creating mushrooms in large numbers
- *
- * @author Nelson
  */
 public class MushFactory {
 
