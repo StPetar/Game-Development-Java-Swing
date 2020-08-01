@@ -16,14 +16,14 @@ This is where we handle level generation.
 ### Controller
 this is where we handled, spawn points for enemies, collision detections, user controls, etc
 
---- --- 
+
 
 ## The final game consists of 3 Levels
 The difficulty and complexity of the levels increases as they do
 
 <img src="https://imgur.com/KAWUO5C.png">
 <br>
---- ---
+
 * **Level 1**
   * Has the basic enemies - Turtules and Mushrooms
   * Obstacles - Pipes and Bricks, Flooded area
@@ -32,7 +32,7 @@ The difficulty and complexity of the levels increases as they do
   * Shooting requires 0 points
 <img src="https://imgur.com/eOQ8AxE.png">
 <br>
---- ---
+
 * **Level 2**
   * Introduces a new enemy - A zig-zagging bird which can only be shot, not stomped
   * Obstacles remain the same in this level, simply in a more complex layout, requiering a bit better control to traverse
@@ -41,7 +41,7 @@ The difficulty and complexity of the levels increases as they do
   * Shooting requires 1 point
 <img src="https://imgur.com/oZpKChz.png"> 
 <br>
---- ---
+
 * **Level 3**
   * Enemies - New winged version of Turtles and Mushrooms only, can not be stomped and must be shot
   * Obstacles - Introduces moving platforms, every pipe shoots a fireball in random intervals
