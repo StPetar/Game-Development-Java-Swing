@@ -22,7 +22,6 @@ The difficulty and complexity of the levels increases as they do
 
 <img src="https://imgur.com/KAWUO5C.png">
 
-<br>
 * **Level 1**
   * Has the basic enemies - Turtules and Mushrooms
   * Obstacles - Pipes and Bricks, Flooded area
