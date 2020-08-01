@@ -21,7 +21,7 @@ this is where we handled, spawn points for enemies, collision detections, user c
 The difficulty and complexity of the levels increases as they do
 
 <img src="https://imgur.com/KAWUO5C.png">
----
+
 <br>
 * **Level 1**
   * Has the basic enemies - Turtules and Mushrooms
@@ -31,7 +31,7 @@ The difficulty and complexity of the levels increases as they do
   * Shooting requires 0 points
 <br>
 <img src="https://imgur.com/eOQ8AxE.png">
----
+
   
 * **Level 2**
   * Introduces a new enemy - A zig-zagging bird which can only be shot, not stomped
@@ -41,7 +41,7 @@ The difficulty and complexity of the levels increases as they do
   * Shooting requires 1 point
 <br>
 <img src="https://imgur.com/oZpKChz.png"> 
----
+
 * **Level 3**
   * Enemies - New winged version of Turtles and Mushrooms only, can not be stomped and must be shot
   * Obstacles - Introduces moving platforms, every pipe shoots a fireball in random intervals
@@ -50,5 +50,5 @@ The difficulty and complexity of the levels increases as they do
   * Shooting requires 2 points
 <br>
 <img src="https://imgur.com/evba9II.png">
----
+
 #### For the 3rd level we decided to completely change the in-game models as the difficulty and complexity of the level was meant to be completely new to the overall feel of the game and the level itself - to be a challenge to our classmates when trying the game
