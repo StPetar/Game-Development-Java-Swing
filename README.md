@@ -49,4 +49,4 @@ The difficulty and complexity of the levels increases as they do
   * Shooting requires 2 points
 <img src="https://imgur.com/evba9II.png">
 
-#### For the 3rd level we decided to completely change the in-game models as the difficulty and complexity of the level was meant to be completely new to the overall feel of the game and the level itself - to be a challenge to our classmates when trying the game
+#### For the 3rd level we decided to change most of the in-game models as a way to separate it a bit from the normal game as its difficulty and complexity was meant to be completely new to the overall feel of the game and the level itself - a challenge to our classmates
