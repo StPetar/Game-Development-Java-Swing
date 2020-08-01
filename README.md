@@ -6,7 +6,7 @@
 Everything happens in a JPanel, using the paintComponent method. 
 In a seperate thread, a repaint method is called. this repaint method simply calls the paintComponent method continuously in an infinite loop.
 
-##The Model-View-Controller approach was used to create our game. 
+## The Model-View-Controller approach was used to create our game. 
 ### Models
 This is where we handle the behaviour of our game objects/models3.
 
@@ -16,7 +16,7 @@ This is where we handle level generation.
 ### Controller
 this is where we handled, spawn points for enemies, collision detections, user controls, etc
 
-
+--- --- 
 
 ## The final game consists of 3 Levels
 The difficulty and complexity of the levels increases as they do
