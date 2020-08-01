@@ -21,6 +21,7 @@ this is where we handled, spawn points for enemies, collision detections, user c
 The difficulty and complexity of the levels increases as they do
 
 <img src="https://imgur.com/KAWUO5C.png">
+<br>
 
 * **Level 1**
   * Has the basic enemies - Turtules and Mushrooms
@@ -30,7 +31,7 @@ The difficulty and complexity of the levels increases as they do
   * Shooting requires 0 points
 <br>
 <img src="https://imgur.com/eOQ8AxE.png">
-
+<br>
   
 * **Level 2**
   * Introduces a new enemy - A zig-zagging bird which can only be shot, not stomped
@@ -40,6 +41,7 @@ The difficulty and complexity of the levels increases as they do
   * Shooting requires 1 point
 <br>
 <img src="https://imgur.com/oZpKChz.png"> 
+<br>
 
 * **Level 3**
   * Enemies - New winged version of Turtles and Mushrooms only, can not be stomped and must be shot
