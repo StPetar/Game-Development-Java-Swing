@@ -1,6 +1,7 @@
 # Mobile-Development-Java-Swing
 ## A Java Swing recreation of the famous Super Mario game
 ### 3-Person Team project
+#### Team members: Petar Stoyanov, Nelson Waffo, Daniel Dyankov
 
 Everything happens in a JPanel, using the paintComponent method. 
 In a seperate thread, a repaint method is called. this repaint method simply calls the paintComponent method continuously in an infinite loop.
