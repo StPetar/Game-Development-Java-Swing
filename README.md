@@ -8,25 +8,25 @@ In a seperate thread, a repaint method is called. this repaint method simply cal
 
 ## The Model-View-Controller approach was used to create our game. 
 ### Models
-This is where we handle the behaviour of our game objects/models3.
+This is where we handle the behaviour of our game objects/models
 
-### View
+### Views
 This is where we handle level generation.
 
-### Controller
-this is where we handled, spawn points for enemies, collision detections, user controls, etc
+### Controllers
+This is where we handled, spawn points for enemies, collision detections, user controls, etc
 
 
 
 ## The final game consists of 3 Levels
-The difficulty and complexity of the levels increases as they do
+The difficulty and complexity of the levels increases as you go up
 
 <img src="https://imgur.com/KAWUO5C.png">
 <br>
 
 * **Level 1**
   * Has the basic enemies - Turtules and Mushrooms
-  * Obstacles - Pipes and Bricks, Flooded area
+  * Obstacles - Pipes and Bricks, a Flooded area
   * Enemy behaviour is simple - they move in a given direction until they collide with other object at which point their direction is reversed
   * Collectables - Coins of three different values [yellow, green and purple coin]
   * Shooting requires 0 points
